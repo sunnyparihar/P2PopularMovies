@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/sunnyparihar/Downloads/Movies-Stage-2-master/MovieStage2/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/sunnyparihar/Downloads/Movies-Stage-2-master/MovieStage2/app/build/intermediates/pre-dexed/debug/classes-880279a3d7e86f3af7189578887728116c4c0902.jar" />
+    </item>
+    <item
+        jar="/Users/sunnyparihar/.gradle/caches/modules-2/files-2.1/net.simonvt.schematic/schematic-annotations/0.5.3/4ba01d8a9f9f15a35d15626f9f00658a92d88092/schematic-annotations-0.5.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4ba01d8a9f9f15a35d15626f9f00658a92d88092">
+        <dex dex="/Users/sunnyparihar/Downloads/Movies-Stage-2-master/MovieStage2/app/build/intermediates/pre-dexed/debug/schematic-annotations-0.5.3-c25143ac3f33bc2998d4e56952b7640423829cef.jar" />
+    </item>
+    <item
+        jar="/Users/sunnyparihar/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/4de2b4ed3445c37ec1720a7d214712e845a24636/okhttp-2.5.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="/Users/sunnyparihar/Downloads/Movies-Stage-2-master/MovieStage2/app/build/intermediates/pre-dexed/debug/okhttp-2.5.0-d3a4de1eb4a38dd4fb3a677bbb9e1a199d8f13f9.jar" />
+    </item>
+    <item
+        jar="/Users/sunnyparihar/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/Users/sunnyparihar/Downloads/Movies-Stage-2-master/MovieStage2/app/build/intermediates/pre-dexed/debug/butterknife-7.0.1-ff681fb6ed120d18a15510ddd0fca282d4dcea3f.jar" />
+    </item>
+    <item
+        jar="/Users/sunnyparihar/Downloads/Movies-Stage-2-master/MovieStage2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/sunnyparihar/Downloads/Movies-Stage-2-master/MovieStage2/app/build/intermediates/pre-dexed/debug/classes-1384b0c67c367475b3034fcbbd52005d22bab99a.jar" />
+    </item>
+    <item
+        jar="/Users/sunnyparihar/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/sunnyparihar/Downloads/Movies-Stage-2-master/MovieStage2/app/build/intermediates/pre-dexed/debug/gson-2.3.1-20eedab79fa68b8073ed59b5859f9ad61c96aebb.jar" />
+    </item>
+    <item
+        jar="/Users/sunnyparihar/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/2.0.0-beta2/880d9e0997b2d1bfc98e0d121ced33ee5d04aac4/retrofit-2.0.0-beta2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="880d9e0997b2d1bfc98e0d121ced33ee5d04aac4">
+        <dex dex="/Users/sunnyparihar/Downloads/Movies-Stage-2-master/MovieStage2/app/build/intermediates/pre-dexed/debug/retrofit-2.0.0-beta2-8913275d0936b26dce5538a1eacce957f16dbc2c.jar" />
+    </item>
+    <item
+        jar="/Users/sunnyparihar/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/converter-gson/2.0.0-beta2/392c3d09e0f5e7087544093cc0cb23bb9c7af5fa/converter-gson-2.0.0-beta2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="392c3d09e0f5e7087544093cc0cb23bb9c7af5fa">
+        <dex dex="/Users/sunnyparihar/Downloads/Movies-Stage-2-master/MovieStage2/app/build/intermediates/pre-dexed/debug/converter-gson-2.0.0-beta2-74a950851ed0c5f7942b0563e86a44c06a1399a6.jar" />
+    </item>
+    <item
+        jar="/Users/sunnyparihar/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/sunnyparihar/Downloads/Movies-Stage-2-master/MovieStage2/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-58794b7c5ee8aae95800a85adb8c26a4ef53479e.jar" />
+    </item>
+    <item
+        jar="/Users/sunnyparihar/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/sunnyparihar/Downloads/Movies-Stage-2-master/MovieStage2/app/build/intermediates/pre-dexed/debug/picasso-2.5.2-71197cb06472373db3670c10feafc156d5ea1663.jar" />
+    </item>
+    <item
+        jar="/Users/sunnyparihar/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/sunnyparihar/Downloads/Movies-Stage-2-master/MovieStage2/app/build/intermediates/pre-dexed/debug/okio-1.6.0-43c6e73f98e9424366a3bbd260963760a628b7a9.jar" />
+    </item>
+    <item
+        jar="/Users/sunnyparihar/Downloads/Movies-Stage-2-master/MovieStage2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/sunnyparihar/Downloads/Movies-Stage-2-master/MovieStage2/app/build/intermediates/pre-dexed/debug/classes-7ecefadd7da9ab8362524a6324207d497de44398.jar" />
+    </item>
+    <item
+        jar="/Users/sunnyparihar/Downloads/Movies-Stage-2-master/MovieStage2/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="/Users/sunnyparihar/Downloads/Movies-Stage-2-master/MovieStage2/app/build/intermediates/pre-dexed/debug/classes-ea7012006afefeda72d20668aeb706b88d961421.jar" />
+    </item>
+    <item
+        jar="/Users/sunnyparihar/Downloads/Movies-Stage-2-master/MovieStage2/app/build/intermediates/exploded-aar/net.simonvt.schematic/schematic/0.5.3/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7e1bc659da30a639e386e900b8c34322fba4f5db">
+        <dex dex="/Users/sunnyparihar/Downloads/Movies-Stage-2-master/MovieStage2/app/build/intermediates/pre-dexed/debug/classes-ec8b5dafd5090409dce361fe97d492d376907287.jar" />
+    </item>
+    <item
+        jar="/Users/sunnyparihar/Downloads/Movies-Stage-2-master/MovieStage2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/sunnyparihar/Downloads/Movies-Stage-2-master/MovieStage2/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-a947a9ee4c3be733086ba5bc03d7b9ec4f1c7ba0.jar" />
+    </item>
+
+</items>
